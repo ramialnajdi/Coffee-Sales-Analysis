@@ -61,3 +61,41 @@ plotly
 
 # Data Source
 kagglehub
+```
+
+---
+
+## 🛠️ Data Processing  
+- Combined multiple datasets from Kaggle  
+- Standardized product naming conventions  
+- DateTime formatting and feature engineering  
+- Comprehensive data validation and cleaning  
+
+---
+
+## 📊 Analytical Methods  
+- Time series analysis with moving averages  
+- RFM (Recency, Frequency, Monetary) customer segmentation  
+- K-means clustering with elbow method optimization  
+- Statistical trend analysis and outlier detection  
+- Comparative performance analysis (pre/post product launch)  
+
+---
+
+## 📋 Business Recommendations  
+
+### Immediate Actions (0-6 months)  
+- Launch **VIP loyalty program** for top 19% of customers  
+- Introduce **seasonal bundles** to increase average transaction value  
+- Optimize **inventory** based on peak demand patterns  
+- Implement **reactivation campaigns** for dormant customers  
+
+### Strategic Initiatives (6-18 months)  
+- **Quarterly product launches** to maintain growth momentum  
+- **Subscription model** development for office customers  
+- **Premium pricing strategy** for best-performing products  
+- **Multi-location expansion feasibility study**  
+
+---
+ 
+
