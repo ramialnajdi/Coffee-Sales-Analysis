@@ -51,10 +51,7 @@ The report provides data-driven insights into customer behavior, product perform
 ### Dependencies  
 ```python
 # Core Libraries
-pandas, numpy, matplotlib, seaborn, plotly
-
-# Machine Learning
-scikit-learn, kneed
+pandas, numpy, matplotlib, seaborn, plotly, scikit-learn
 
 # Data Source
 kagglehub
@@ -93,6 +90,5 @@ kagglehub
 - **Premium pricing strategy** for best-performing products  
 - **Multi-location expansion feasibility study**  
 
----
  
 
