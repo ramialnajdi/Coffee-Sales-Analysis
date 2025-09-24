@@ -51,13 +51,10 @@ The report provides data-driven insights into customer behavior, product perform
 ### Dependencies  
 ```python
 # Core Libraries
-pandas, numpy, matplotlib, seaborn
+pandas, numpy, matplotlib, seaborn, plotly
 
 # Machine Learning
 scikit-learn, kneed
-
-# Data Visualization
-plotly
 
 # Data Source
 kagglehub
